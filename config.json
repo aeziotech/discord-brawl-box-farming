@@ -1,0 +1,23 @@
+{
+    "token": "NzQ2MDY2MjI5NTk2MjU4MzI0.X8jIRA.z2YqF0ZIDMazZX1mstobktS1pyc",
+
+    "commands": [{
+        "active": true,
+        "content": "-b",
+        "channelID": "638889245062332446",
+        "interval": 2500,
+        "inventory": {
+            "mb": { "active": true, "count": 47, "content": "-mb" },
+            "bb": { "active": false, "count": 0, "content": "-bb" }
+        }
+    },{
+        "active": false,
+        "content": "-b",
+        "channelID": "573810342866583573",
+        "interval": 3500,
+        "inventory": {
+            "mb": { "active": false, "count": 0, "content": "-mb" },
+            "bb": { "active": false, "count": 0, "content": "-bb" }
+        }
+    }]
+}
